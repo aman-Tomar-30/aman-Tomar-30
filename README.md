@@ -1,9 +1,9 @@
 ![logo](https://github.com/aman-Tomar-30/aman-Tomar-30/blob/main/githubgif.gif)
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Learning-brightgreen" alt="DevOps Badge" />
-  <img src="https://img.shields.io/badge/MERN-Stack-ff69b4" alt="MERN Badge" />
-  <img src="https://img.shields.io/badge/Next.js-React-blue" alt="Next.js Badge" />
-  <img src="https://img.shields.io/badge/DSA-Data_Structures-ff4500" alt="DSA Badge" />
+  <img src="https://img.shields.io/badge/DevOps-Learning-blue" />
+  <img src="https://img.shields.io/badge/Data%20Science-Time%20Series-orange" />
+  <img src="https://img.shields.io/badge/ML-Deep%20Learning-ff69b4" />
+  <img src="https://img.shields.io/badge/Streamlit-Dashboards-red" />
 </p>
 <h1 align="center">Hi 👋, I'm Aman Tomar</h1>
 <h3 align="center">Aspiring Data Analyst from India</h3>
@@ -63,8 +63,13 @@
 <a href="https://vercel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
-<a href="https://postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40"/>
+</a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
+</a>
 </p>
 
 ---

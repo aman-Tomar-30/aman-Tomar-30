@@ -1,13 +1,12 @@
 ![logo](https://github.com/aman-Tomar-30/aman-Tomar-30/blob/main/githubgif.gif)
 <p align="center">
+  <img src="https://img.shields.io/badge/Data-Enthusiast-brightgreen" />
   <img src="https://img.shields.io/badge/DevOps-Learning-blue" />
-  <img src="https://img.shields.io/badge/Data%-Analysis%20-orange" />
-  <img src="https://img.shields.io/badge/ML-Deep%20Learning-ff69b4" />
+  <img src="https://img.shields.io/badge/Data-Analysis-orange" />
   <img src="https://img.shields.io/badge/DSA-Data_Structures-ff4500" alt="DSA Badge" />
 </p>
 <h1 align="center">Hi 👋, I'm Aman Tomar</h1>
 <h3 align="center">Aspiring Data Analyst from India</h3>
-
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -73,11 +72,10 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-Computing-brightgreen" />
+  <img src="https://img.shields.io/badge/Data-Enthusiast-brightgreen" />
   <img src="https://img.shields.io/badge/DevOps-Learning-blue" />
-  <img src="https://img.shields.io/badge/Data%20Science-Time%20Series-orange" />
-  <img src="https://img.shields.io/badge/ML-Deep%20Learning-ff69b4" />
-  <img src="https://img.shields.io/badge/Streamlit-Dashboards-red" />
+  <img src="https://img.shields.io/badge/Data-Analysis-orange" />
+  <img src="https://img.shields.io/badge/DSA-Data_Structures-ff4500" alt="DSA Badge" />
 </p>
 
 

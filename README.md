@@ -94,9 +94,9 @@ Feel free to reach out if you want to collaborate on exciting projects 💡 or d
 ---
 
   <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nirmaltodwal7&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nirmaltodwal7&theme=radical" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nirmaltodwal7&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aman-Tomar-30&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=aman-Tomar-30&theme=radical" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aman-Tomar-30&layout=compact&theme=radical" height="170" />
 </p>
 
 

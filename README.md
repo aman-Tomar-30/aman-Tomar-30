@@ -43,6 +43,14 @@
 <p align="left">
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Seaborn_logo.svg" width="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/></a>
+<a href="https://restfulapi.net/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="40"/></a>
+<a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
@@ -52,23 +60,21 @@
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-<a href="#"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40"/></a>
 <a href="https://vercel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
 <a href="https://postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project%20Management-Agile%20Delivery-blueviolet" />
-  <img src="https://img.shields.io/badge/MERN-Full%20Stack-ff69b4" />
-  <img src="https://img.shields.io/badge/Next.js-Production%20Apps-black" />
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange" />
-  <img src="https://img.shields.io/badge/DevOps-Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Cloud-Computing-brightgreen" />
+  <img src="https://img.shields.io/badge/DevOps-Learning-blue" />
+  <img src="https://img.shields.io/badge/Data%20Science-Time%20Series-orange" />
+  <img src="https://img.shields.io/badge/ML-Deep%20Learning-ff69b4" />
+  <img src="https://img.shields.io/badge/Streamlit-Dashboards-red" />
 </p>
 
 

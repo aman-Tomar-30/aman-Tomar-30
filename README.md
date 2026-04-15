@@ -1,7 +1,7 @@
-![logo](https://github.com/aman-Tomar-30/aman-Tomar-30/blob/main/githubgif.gif)
+![logo](https://raw.githubusercontent.com/aman-Tomar-30/aman-Tomar-30/main/githubgif.gif)
 <p align="center">
   <img src="https://img.shields.io/badge/Data-Enthusiast-brightgreen" />
-  <img src="https://img.shields.io/badge/DevOps-Learning-blue" />
+  <img src="https://img.shields.io/badge/Python-Developer-blue" />
   <img src="https://img.shields.io/badge/Data-Analysis-orange" />
   <img src="https://img.shields.io/badge/DSA-Data_Structures-ff4500" alt="DSA Badge" />
 </p>
@@ -46,7 +46,7 @@
 <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
 <a href="https://matplotlib.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/></a>
 <a href="https://restfulapi.net/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="40"/></a>
-<a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40"/></a>
+<a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
@@ -68,19 +68,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
 </a>
 <a href="https://kaggle.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40"">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" width="40" height="40"">
 </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data-Enthusiast-brightgreen" />
-  <img src="https://img.shields.io/badge/DevOps-Learning-blue" />
-  <img src="https://img.shields.io/badge/Data-Analysis-orange" />
-  <img src="https://img.shields.io/badge/DSA-Data_Structures-ff4500" alt="DSA Badge" />
-</p>
-
 
 ---
 

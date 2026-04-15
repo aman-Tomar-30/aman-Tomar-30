@@ -23,11 +23,11 @@
 
 <h3 align="left" style="color: #FF4500;">🔗 Let's Connect!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tomaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman tomar" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/amannn_x30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tomaraman" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman tomar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/amannn_x30/" target="blank"><img" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
     <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/amantomar2609" target="_blank">
-    <img align="center"
+    <img
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
          alt="HackerRank"
          height="30"

@@ -26,9 +26,11 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomaraman)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=linktree&logoColor=white)](https://aman-tomar.vercel.app/)
+
+  
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amannn_x30/)
   [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amantomar2609)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=linktree&logoColor=white)](https://aman-tomar.vercel.app/)
 
 </div>
 
@@ -36,7 +38,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,tailwind,latex,sklearn,flask,mysql,redis,sqlite,postgres,mongodb,firebase,postman,vercel,netlify,docker,git,github,vscode,pycharm,linux,ubuntu&theme=dark&perline=13" />
 </p>
 

@@ -23,21 +23,27 @@
 - ⚡ Fun fact **I Think i am funny**
 
 <h3 align="left">🔗 Let's Connect!</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/tomaraman"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40"/></a> <a href="https://leetcode.com/u/amannn_x30/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="40"/></a> <a href="https://www.hackerrank.com/profile/amantomar2609"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="40"/></a>
-</p>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomaraman)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amannn_x30/)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amantomar2609)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=linktree&logoColor=white)](https://aman-tomar.vercel.app/)
+
+</div>
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,tailwind,latex,sklearn,flask,mysql,redis,sqlite,postgres,mongodb,firebase,postman,vercel,netlify,docker,git,github,vscode,pycharm,linux,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,tailwind,latex,sklearn,flask,mysql,redis,sqlite,postgres,mongodb,firebase,postman,vercel,netlify,docker,git,github,vscode,pycharm,linux,ubuntu&theme=dark&perline=13" />
 </p>
 
 ---
 
 ### 🌟 About Me 🌟
+
 I am a passionate and motivated Software Engineer with a strong focus on Data Analytics, Machine Learning, and Web Technologies. Currently pursuing my B.Tech in Computer Science Engineering at JECRC University, Jaipur.
 
 My technical expertise includes Python, Java, SQL, Pandas, Numpy, Matplotlib, Flask and Streamlit. I am comfortable working across the full development lifecycle — from planning and designing architectures to deployment and optimization.
@@ -45,11 +51,13 @@ My technical expertise includes Python, Java, SQL, Pandas, Numpy, Matplotlib, Fl
 I am continuously learning and striving to grow in Data Analysis and Web Development. I am actively seeking opportunities where I can contribute to meaningful projects, work in a mentorship-driven engineering culture, and further strengthen my technical and problem-solving capabilities.
 
 ### Education 🎓
+
 **Currently pursuing B.Tech in Computer Science Engineering (3rd Year) at JECRC University, Jaipur.**
 
 ---
 
 ### Let's Connect 🤝
+
 Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖, **DevOps** ⚙️, or **Web development** 🌐. Let's make something amazing together! 🚀
 
 ---

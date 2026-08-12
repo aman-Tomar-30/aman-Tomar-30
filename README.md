@@ -1,10 +1,12 @@
+### Moshi Moshi !  <img src="https://media.tenor.com/aKfOXzjBStoAAAAi/evangelion-neon-genesis-evangelion.gif" width="40px">
+
 ```python
 Name =  "Aman Tomar"
 Interests = ["Computer Networks", "Machine Learning", "Developing whatever i wish", "Anime"]
 Languages = ["Java", "Python", "SQL"]
 ```
 <div align="center">
-<img alt="coding" width="400" src="tenor.gif">
+<img alt="coding" width="400" src="typing.gif">
 </div>
 
 
